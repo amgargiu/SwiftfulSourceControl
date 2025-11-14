@@ -15,6 +15,9 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful")
 
+            Button("save") {
+                
+            }
         }
         .padding()
     }
